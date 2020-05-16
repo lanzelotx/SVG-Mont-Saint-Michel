@@ -4,8 +4,12 @@
 ## Team
 | <img src="https://github.com/lanzelotx/SVG-Mont-Saint-Michel/blob/master/img/004.jpg" width="100" height="100"> | <img src="https://github.com/lanzelotx/SVG-Mont-Saint-Michel/blob/master/img/033.jpg" width="100" height="100"> | <img src="https://github.com/lanzelotx/SVG-Mont-Saint-Michel/blob/master/img/078.jpg" width="100" height="100"> |
 | :------------: | :------------: | :------------: |
-| กฤติยาณี โรจน์ประดิษฐ์ | จิรายุ แกล้วกล้า | ธนพล ยุวะเสวี | อิทธิ์ศรา ยันต์เจริญ |
+| กฤติยาณี โรจน์ประดิษฐ์ | จิรายุ แกล้วกล้า | ธนพล ยุวะเสวี |
 | 62070004 | 62070033 | 62070078 | 62070227 |
+
+| <img src="https://github.com/lanzelotx/SVG-Mont-Saint-Michel/blob/master/img/227.jpg" width="100" height="100"> |
+| :------------: |
+| อิทธิ์ศรา ยันต์เจริญ |
 
 ## Instructor
 | <img src="https://github.com/lanzelotx/SVG-Mont-Saint-Michel/blob/master/img/spw.jpg" width="100" height="100"> |
